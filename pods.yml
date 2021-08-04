@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: nodeapp
-      image: logic2000/nodeapp:v1
+      image: logic2000/nodeapp:2
       ports:
         - containerPort: 8080
